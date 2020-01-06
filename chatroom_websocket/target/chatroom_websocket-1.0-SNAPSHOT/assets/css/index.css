@@ -1,0 +1,49 @@
+body{
+    background-image:url("../img/bg2.jpg");
+    background-size:cover;
+}
+.content-form{
+    box-shadow:0 10px 20px rgba(0,0,0,0.4);
+    background:rgba(225,225,225,0.3);
+    border-radius:20px;
+    margin:0 auto;
+}
+h3{
+    font-family:"consolas";
+    color:#30a1ec;
+}
+.content-login-link:hover{
+    color:#51a5ff;
+}
+#company-name{
+    font-weight: bold;
+    font-size:20px;
+    margin-top:3px;
+    color:dodgerblue;
+    margin-bottom:10px;
+}
+.content-form:hover{
+    background:rgba(225,225,225,0.1);
+}
+.blog{
+    color:#30a1ec;
+    font-size:18px; 
+    text-align: center;
+    margin-top:15px;
+}
+.blog:hover{
+    color: dodgerblue;
+}
+#remind_1,#remind_2{
+    font-size:.8em;
+}
+.content-form-signup{
+    background-color:#92c0f1;
+}
+.content-form-signup:hover{
+    background-color:#8abdf4;
+}
+marquee{
+    color:white;
+    font-weight:bold;
+}

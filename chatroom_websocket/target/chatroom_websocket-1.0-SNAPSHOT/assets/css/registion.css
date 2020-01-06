@@ -1,0 +1,37 @@
+body{
+    background-image:url("../img/bg2.jpg");
+    background-size:cover;
+}
+.content-title{
+    font-size:25px;
+}
+.content-form{
+    box-shadow:0 10px 20px rgba(0,0,0,0.4);
+    background:rgba(225,225,225,0.3);
+    border-radius:20px;
+    margin:0 auto;
+}
+.blog{
+    color:#30a1ec;
+    font-size:18px; 
+    text-align: center;
+    margin-top:15px;
+}
+.blog:hover{
+    color: rgb(76, 155, 235);
+}
+#remind_1,#remind_2{
+    font-size:.8em;
+}
+.content-login-link:hover{
+    color:#51a5ff;
+}
+.content-form-signup{
+    background-color:#92c0f1;
+}
+.content-form-signup:hover{
+    background-color:#8abdf4;
+}
+.content-login-link:hover{
+    color:#51a5ff;
+}
